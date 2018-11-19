@@ -1,4 +1,4 @@
-console.log('Custom code works')
+console.log('Custom code works');
 
 
 // <!-- Google Tag Manager -->
